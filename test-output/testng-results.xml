@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="87134" started-at="2018-09-17T07:13:50Z" finished-at="2018-09-17T07:15:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="87134" started-at="2018-09-17T07:13:50Z" finished-at="2018-09-17T07:15:17Z">
+      <class name="COM.EXCEL.base_testcase">
+        <test-method status="PASS" signature="ActitimeApp()[pri:0, instance:COM.EXCEL.base_testcase@5ae9a829]" name="ActitimeApp" duration-ms="87057" started-at="2018-09-17T12:43:50Z" finished-at="2018-09-17T12:45:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ActitimeApp -->
+      </class> <!-- COM.EXCEL.base_testcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
